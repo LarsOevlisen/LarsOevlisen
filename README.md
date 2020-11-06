@@ -1,4 +1,4 @@
-<h3 align="left">Data Analyst currently working at <a href="https://www.specsavers.com/"><i>Specsavers</i></a> 👓👁️ - I think R is 🤌</h3>
+<h3 align="left">Marketing Data Analyst currently working at <a href="https://www.specsavers.com/"><i>Specsavers</i></a> 👓👁️ - I think R is 🤌</h3>
 <table style="width:100%">
   <tr>
     <td>📊</td>
