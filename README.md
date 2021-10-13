@@ -1,4 +1,6 @@
-<h3 align="left">Currently #opentowork in the field of Data Analytics within the domains of marketing, product, hr, sales ... - I like SQL and think R is 🤌</h3>
+<h3 align="left">Currently #opentowork in the field of Data Analytics within the domains of marketing, product, hr, sales ...</h3>
+<h2>I think SQL and R is 🤌</h2>
+<p>Currently, I'm focusing on sharpening my skills in SQL and Python</p>
 <table style="width:100%">
   <tr>
     <td>📊</td>
@@ -18,6 +20,7 @@
 </table>
 <h4 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/larsoevlisen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="larsoevlisen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/larsoevlisen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="larsoevlisen" height="30" width="40" /></a>
+<ul>
+<li>Twitter: <a href="https://twitter.com/larsoevlisen" target="blank">🦤</a></li>
+<li>LinkedIn: <a href="https://linkedin.com/in/larsoevlisen" target="blank">👔</a></li>
 </p>
