@@ -1,5 +1,5 @@
-<h3 align="left">Currently #opentowork in the field of Data Analytics within the domains of marketing, product, hr, sales ...</h3>
-<h2>I think SQL and R is 🤌</h2>
+<h2 align="left">Currently #opentowork in the field of Data Analytics within the domains of marketing, product, hr, sales ...</h3>
+<h3>I think SQL and R is 🤌</h2>
 <p>Currently, I'm focusing on sharpening my skills in SQL and Python</p>
 <table style="width:100%">
   <tr>
