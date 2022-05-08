@@ -1,24 +1,16 @@
-<h2 align="left">Currently #opentowork in the field of Data Analytics within the domains of marketing, product, hr, sales ...</h3>
-<h3>I think SQL and R are 🤌</h2>
-<p>Focusing on sharpening my skills in SQL and Python.</p>
-<table style="width:100%">
-  <tr>
-    <td>📊</td>
-    <td>📉</td>
-    <td>📈</td>
-  </tr>
-  <tr>
-    <td>📉</td>
-    <td>📊</td>
-    <td>📉</td>
-  </tr>
-  <tr>
-    <td>📈</td>
-    <td>📉</td>
-    <td>📊</td>
-  </tr>
-</table>
-<h4 align="left">Connect with me:</h3>
+<h2 align="left">Currently learning about the domain of Railroad Systems, Rolling Stock & Passenger Train Transport at DSB (Danish National Rail)</h2>
+<hr>
+<h3>I am currently ...</h3>
+<p>
+  <ul>
+    <li>focusing on sharpening my skills in SQL.</li>
+    <li>trying to parallelly acquire competencies in dbt and Data Vault modelling (dbtvault).</li>
+    <li>getting a good understanding of how to utilise Python in the Data Analytics space.</li>
+    <li>gardening while making well-deserved dad noises.
+  </ul>
+</p>
+
+<hr>
 <p align="left">
 <ul>
 <li>Twitter: https://twitter.com/larsoevlisen</li>
