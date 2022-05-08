@@ -1,4 +1,4 @@
-<h2 align="left">Currently learning about the domain of Railroad Systems, Rolling Stock & Passenger Train Transport at DSB (Danish National Rail)</h2>
+<h2 align="left">Currently learning about the domain of 🛤️ Railroad Systems, 🚂 Rolling Stock & 🚉 Passenger Train Transport at DSB (Danish National Rail)</h2>
 <hr>
 <h3>I am currently ...</h3>
 <p>
