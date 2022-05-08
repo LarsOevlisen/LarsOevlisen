@@ -1,6 +1,7 @@
 <h2 align="left">Currently learning about the domain of 🛤️ Railroad Systems, 🚂 Rolling Stock & 🚉 Passenger Train Transport at DSB (Danish National Rail)</h2>
 <hr>
-<h3>I am currently ...</h3>
+<h3>Data Analytics and Modelling</h3>
+<h4>I am currently ...</h4>
 <p>
   <ul>
     <li>focusing on sharpening my skills in SQL.</li>
