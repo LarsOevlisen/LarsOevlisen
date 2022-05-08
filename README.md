@@ -12,7 +12,8 @@
 </p>
 
 <hr>
-<p align="left">
+<p>
+<h4>Social Bits:</h4>
 <ul>
 <li>Twitter: https://twitter.com/larsoevlisen</li>
 <li>LinkedIn: https://linkedin.com/in/larsoevlisen</li>
